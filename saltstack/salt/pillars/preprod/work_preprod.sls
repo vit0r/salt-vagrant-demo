@@ -1,0 +1,1 @@
+echo_env: file from pillar {{saltenv}}
